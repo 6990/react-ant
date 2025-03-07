@@ -1,0 +1,15 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0px;
+}
+.header-notifacation{
+    flex: 1;
+    margin: 0px 10px;
+    height: 85%;
+    padding: 5px;
+}
+.ant-alert-message{
+    margin-bottom: 0px !important
+}
